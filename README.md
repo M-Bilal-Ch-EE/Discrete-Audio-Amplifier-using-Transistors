@@ -273,6 +273,8 @@ The complete amplifier was simulated and tested to validate:
 - Signal integrity
 - Distortion reduction
 
+![Simulation Output](images/simulation-input.png)
+
 ![Simulation Output](images/simulation-output.png)
 
 ---
